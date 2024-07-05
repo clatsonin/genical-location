@@ -1,5 +1,5 @@
 fastapi
-geopy
 pydantic
 python-dotenv
 uvicorn
+requests
